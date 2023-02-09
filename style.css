@@ -10,6 +10,7 @@ h1 {
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,14 @@ section{
 .top-banner{
     background-image: url(top-banner1.jpg);
     background-repeat: no-repeat;
+}
+.part-two{
+    width: 50%;
+    padding: 10%;
+}
+.part-two img{
+    width: 100%;
+}
+.web-color{
+    color: tomato;
 }
