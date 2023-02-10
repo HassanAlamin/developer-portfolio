@@ -28,7 +28,7 @@ section{
     color: white;
 }
 .top-banner{
-    background-image: url(top-banner1.jpg);
+    background-image: url(images/top-banner1.jpg);
     background-repeat: no-repeat;
 }
 .part-two{
@@ -40,4 +40,7 @@ section{
 }
 .web-color{
     color: tomato;
+}
+.dream-big{
+    background-image: url(images/section2.jpg);
 }
